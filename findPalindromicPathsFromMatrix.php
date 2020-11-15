@@ -3,6 +3,7 @@
 /**
  * This is a PHP script with a near tail recursive optimized approach to find all palindromic paths from top-left to bottom-right in a given matrix with
  * @author Francesco Liuzzi <franc.liuzzi@gmail.com>
+ * @link https://github.com/franc-liuzzi/geeksforgeeks/blob/master/findPalindromicPathsFromMatrix.php
  */
 
 /** START input generator functions */
